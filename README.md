@@ -98,11 +98,11 @@ Passionate about transforming data into strategic decisions and automating proce
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-paulo-cavalheiro-da-silva-495b92205/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:gerenciapedropaulocav@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
