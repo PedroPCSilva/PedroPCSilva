@@ -67,11 +67,11 @@ Passionate about transforming data into strategic decisions and automating proce
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroPCSilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroPCSilva&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPCSilva&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroPCSilva&layout=compact&theme=tokyonight" />
 </p>
 
 ---
